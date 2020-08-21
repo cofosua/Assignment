@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+<style> 
+background-color=
+blue}
+<title>Dennis Boateng</title>
+
+    <nav>
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="sevices.html">Services</a>
+<a href="contacts.html">Contacts</a>
+    </nav>
+
+ <img src="/img.jpg">
+ <img src="/img.jpg">
+ <img src="/img.jpg">
+
+
+ <ul>Foods</ul>
+
+ <li>Rice</li>
+ <li>Koko</li>
+ <li>Tea</li>
+ <li>Yam</li>
+
+ <ol>Colors</ol>
+
+ <li>yellow</li>
+ <li>Blue</li>
+ <li>green<li>
+
+<footer>
+<a href 
+ 
+
+<h4>Social media handles</h4>
+
+
+</footer>
+ 
+</body>
+</head>
+      
+
+ 
+
+  
